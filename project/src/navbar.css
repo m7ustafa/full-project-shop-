@@ -1,0 +1,25 @@
+.container {
+  font-size: xx-large;
+}
+.list {
+  list-style: none;
+  display: flex;
+  gap: 50px;
+  margin: auto;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+.searchbox {
+    overflow: hidden;
+    text-align: center;
+    text-decoration: wavy;
+    color: white;
+  background-color: cornflowerblue;
+  height: 40px;
+  border: none;
+  border-radius: 20px;
+  width: 100%;
+  
+}
